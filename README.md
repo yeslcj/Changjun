@@ -1,6 +1,6 @@
 # This is a test!
 ## 学习github
-### 我就是个小菜
+我就是个小菜
 但是得加油
 # This is a test as well!
 
@@ -13,19 +13,19 @@
 | zebra stripes | are neat      |    $1 |
 
 打开[百度](http://www.baidu.com)
-# 图片（插入花）
+## 图片（插入花）
 美丽花儿： 
 ![美丽花儿](http://ww2.sinaimg.cn/large/56d258bdjw1eugeubg8ujj21kw16odn6.jpg "美丽花儿")
 
 Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就是粗体的语法，用一个 * 包含一段文本就是斜体的语法。
 *斜体* 和 **粗体**
-### 表格
+## 表格
 |第一列|第二列|第三列|
 |---|---|---|
 |1|2|3|
 
-# pragma -mark viewLife
-~~~ 
+## pragma -mark viewLife
+~~~
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
